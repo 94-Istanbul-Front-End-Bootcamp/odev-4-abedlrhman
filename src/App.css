@@ -1,0 +1,16 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.content {
+  box-shadow: 4px 5px 14px grey;
+  padding: 30px;
+}
+.comment-stars {
+  display: flex;
+  justify-content: center;
+}
